@@ -8,6 +8,19 @@ This section guides on various steps we can take to troubleshoot application iss
 
 Once you have an account with an upgraded plan, you will be able to create a shell for your account. Once the shell is created, You can hit the "Run Shell" button to initiate a terminal for your account.
 
+
+### How do you check the status of all apps running for your account?
+
+### How do you check the version of the docker image for your application?
+
+### How do you check the configuration used for the applications deployed?
+
+### How do you verify that the applications deployed are running?
+
+### How do you check the logs for the applications deployed?
+
+### 
+
 ```markdown
 Syntax highlighted code block
 
@@ -25,17 +38,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-### How do you check the status of all apps running for your account?
-
-### How do you check the version of the docker image for your application?
-
-### How do you check the configuration used for the applications deployed?
-
-### How do you verify that the applications deployed are running?
-
-### How do you check the logs for the applications deployed?
-
-### 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
