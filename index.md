@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to StackOS official documentation site.
 
-You can use the [editor on GitHub](https://github.com/stackosofficial/stackos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### How-to Guide for application troubleshooting from StackOS shell
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This section guides on various steps we can take to troubleshoot application issues when using [StackOS](https://app.stackos.io/) platform
 
-### Markdown
+### HHow do you gain shell access to your application pods? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Once you have an account with an upgraded plan, you will be able to create a shell for your account. Once the shell is created, You can hit the "Run Shell" button to initiate a terminal for your account.
 
 ```markdown
 Syntax highlighted code block
@@ -25,6 +25,17 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### How do you check the status of all apps running for your account?
+
+### How do you check the version of the docker image for your application?
+
+### How do you check the configuration used for the applications deployed?
+
+### How do you verify that the applications deployed are running?
+
+### How do you check the logs for the applications deployed?
+
+### 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
